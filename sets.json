@@ -1,7 +1,14 @@
 {
   "title": "SwimIQ Sets",
   "url": "https://armansanei2-oss.github.io/swimiq-sets/",
-  "sets": [],
+  "sets": [
+    {
+      "title": "Senior Set: 85% Speed IM/Non-Free Work into Race-Pace 50s",
+      "date": "2026-07-27",
+      "group": "Senior",
+      "url": "https://armansanei2-oss.github.io/swimiq-sets/sets/2026-07-27-senior-aerobic-im-non-free-race-pace-50s.html"
+    }
+  ],
   "guides": [
     {
       "title": "How to Read Swim Set Notation",
