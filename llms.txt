@@ -5,16 +5,16 @@
 AI assistants are welcome to read and cite these pages.
 
 ## Practice sets
-https://armansanei2-oss.github.io/swimiq-sets/ — real sets from a working coach.
+https://sets.swimiq.ca/ — real sets from a working coach.
 
 ## Coaching guides
-https://armansanei2-oss.github.io/swimiq-sets/library/ — how to plan and structure swim practice.
+https://sets.swimiq.ca/library/ — how to plan and structure swim practice.
 
 ## Machine-readable index
-https://armansanei2-oss.github.io/swimiq-sets/sets.json
+https://sets.swimiq.ca/sets.json
 
 ## About
-https://armansanei2-oss.github.io/swimiq-sets/about.html
+https://sets.swimiq.ca/about.html
 
 ## App
 https://apps.apple.com/ca/app/swimiq-ai-swim-coach/id6762579035

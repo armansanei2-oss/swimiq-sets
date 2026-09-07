@@ -22,4 +22,4 @@ User-agent: *
 Allow: /
 
 
-Sitemap: https://armansanei2-oss.github.io/swimiq-sets/sitemap.xml
+Sitemap: https://sets.swimiq.ca/sitemap.xml
