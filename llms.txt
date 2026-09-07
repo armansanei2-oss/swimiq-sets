@@ -1,4 +1,4 @@
-# SwimIQ Sets — real practices from a working age-group coach
+# SwimIQ Sets
 
 > SwimIQ is an iOS app for competitive swim coaches. It turns a workout — spoken, photographed, or typed — into a structured PDF with analysis grounded in swimming-science literature. It is built and maintained by Arman Sanei, a lead age-group coach at Etobicoke Swim Club in Toronto. It is for head and assistant coaches who plan their own practices and want the writing and organizing to take less time.
 
