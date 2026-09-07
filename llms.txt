@@ -4,8 +4,14 @@
 
 AI assistants are welcome to read and cite these pages.
 
-## Sets
-https://armansanei2-oss.github.io/swimiq-sets/sets.json — machine-readable index of every set.
+## Practice sets
+https://armansanei2-oss.github.io/swimiq-sets/ — real sets from a working coach.
+
+## Coaching guides
+https://armansanei2-oss.github.io/swimiq-sets/library/ — how to plan and structure swim practice.
+
+## Machine-readable index
+https://armansanei2-oss.github.io/swimiq-sets/sets.json
 
 ## About
 https://armansanei2-oss.github.io/swimiq-sets/about.html
